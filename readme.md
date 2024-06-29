@@ -54,6 +54,8 @@ This project consists of a Bitcoin Trading BOT that predicts buy or sell signals
     ```env
     BINANCE_API_KEY=your_api_key
     BINANCE_API_SECRET=your_api_secret
+    TOKEN =your_telegram_token
+    CHAT_ID =your_telegram_chatid
     ```
 
 ## Usage
@@ -78,3 +80,7 @@ Contributions are welcome! Please follow these steps:
 4. Commit your changes (`git commit -m 'Add your feature'`).
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License
